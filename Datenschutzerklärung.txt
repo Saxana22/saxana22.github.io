@@ -1,0 +1,71 @@
+Datenschutzerklärung
+
+1. Verantwortliche Stelle
+Verantwortlich für die Datenverarbeitung in dieser App ist:
+Dominik Malinak
+Kratka 464 
+38101 Cesky Krumlov
+dominik.malinak@gmail.com
+420739304330
+
+2. Erhebung und Speicherung personenbezogener Daten
+Beim Nutzen unserer App werden folgende Daten verarbeitet:
+
+Geräteinformationen (Modell, Betriebssystemversion, Geräte-ID)
+
+Nutzungsdaten (aufgerufene Funktionen, Dauer der Nutzung)
+
+Standortdaten (falls aktiviert)
+
+Kontaktdaten, falls vom Nutzer angegeben
+
+3. Zweck der Datenverarbeitung
+Wir verwenden die Daten, um:
+
+die App bereitzustellen und zu verbessern
+
+Analysen zur Nutzung der App durchzuführen
+
+ggf. personalisierte Inhalte oder Benachrichtigungen anzuzeigen
+
+4. Rechtsgrundlage
+Die Verarbeitung der Daten erfolgt gemäß Art. 6 DSGVO:
+
+zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b)
+
+aufgrund der Einwilligung des Nutzers (Art. 6 Abs. 1 lit. a), z. B. für Push-Benachrichtigungen
+
+zur Wahrung berechtigter Interessen (Art. 6 Abs. 1 lit. f), z. B. Verbesserung der App
+
+5. Weitergabe von Daten an Dritte
+Daten werden ggf. weitergegeben an:
+
+Dienstleister, die wir für die App benötigen (z. B. Firebase, Analytik-Tools)
+
+Behörden, falls gesetzlich verpflichtet
+
+6. Cookies und Tracking
+Unsere App verwendet keine klassischen Cookies, kann aber Analytik-Dienste einsetzen, um die Nutzung zu messen.
+
+7. Speicherdauer
+Personenbezogene Daten werden nur so lange gespeichert, wie es für die oben genannten Zwecke erforderlich ist oder gesetzlich vorgeschrieben.
+
+8. Rechte der Nutzer
+Sie haben das Recht auf:
+
+Auskunft über die gespeicherten Daten
+
+Berichtigung oder Löschung Ihrer Daten
+
+Einschränkung der Verarbeitung
+
+Widerspruch gegen die Datenverarbeitung
+
+Datenübertragbarkeit
+
+9. Kontakt für Datenschutzanfragen
+Für Fragen oder Anliegen zum Datenschutz kontaktieren Sie uns bitte unter:
+[E-Mail-Adresse]
+
+10. Änderungen der Datenschutzerklärung
+Wir behalten uns vor, diese Datenschutzerklärung zu ändern. Änderungen werden in der App veröffentlicht.
